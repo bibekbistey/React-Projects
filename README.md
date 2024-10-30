@@ -1,6 +1,6 @@
 # React-Projects
-<h1>I have created few small projects using React that includes</h1><br>
-<h2>To-Do Project</h2><br>
-<h2>Add to Cart</h2><br>
-<h2>Quiz Application</h2><br>
-<h2>Crud Operation</h2><br>
+<h2>I have created few small projects using React.js that includes</h2><br>
+<p>To-Do Project</p><br>
+<p>Add to Cart</p><br>
+<p>Quiz Application</p><br>
+<p>Crud Operation</p><br>
